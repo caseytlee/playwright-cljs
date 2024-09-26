@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nbb": "^1.2.188",
+    "playwright": "^1.27.1"
+  }
+}
