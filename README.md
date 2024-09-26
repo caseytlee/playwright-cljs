@@ -6,9 +6,6 @@
 
 ## Develop
 
-To develop you can start `nbb nrepl-server` and connect from your [favorite
-editor](https://github.com/borkdude/nbb#nrepl).
-
 ### [Calva](https://calva.io/)
 
 The Calva VS Code extension is widely used for Clojure(Script) development.
