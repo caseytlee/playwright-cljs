@@ -1,4 +1,4 @@
-# Browser Automation with Clojurescript
+# Browser Automation with ClojureScript
 
 ## Run example
 
@@ -9,7 +9,12 @@
 To develop you can start `nbb nrepl-server` and connect from your [favorite
 editor](https://github.com/borkdude/nbb#nrepl).
 
-[Calva](https://calva.io/) is widely used if you're using VS Code.
+### [Calva](https://calva.io/)
+
+The Calva VS Code extension is widely used for Clojure(Script) development.
+
+- Calva's [Jack-in command](https://calva.io/connect/#jack-in-let-calva-start-the-repl-for-you) is useful for starting a development REPL.
+- Once a REPL has been started, interactive development can be done through [Code Evaluation](https://calva.io/eval-tips/).
 
 The following macro is quite helpful for REPL development:
 
